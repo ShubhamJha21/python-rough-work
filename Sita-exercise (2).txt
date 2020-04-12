@@ -1,0 +1,7 @@
+[2020-02-19 02:29:09.650785]monday chest
+[2020-02-19 02:29:41.262687]tuesday triceps
+[2020-02-19 02:30:52.707754]wednesday biceps
+[2020-02-19 02:31:10.188323]thrusday triceps
+[2020-02-19 02:31:26.565902]friday shoulder
+[2020-02-19 02:31:44.761733]saturday legs
+[2020-02-19 02:31:59.774638]sunday abs 

@@ -1,0 +1,10 @@
+import os
+print(dir(os))
+print(os.getcwd())
+# os.chdir("c://")
+# print(os.getcwd())
+# open("shubham.txt")
+# os.mkdir("this")
+# os.makedirs("this1/that")
+# os.rename("shubham.txt","sunil.txt")
+print(os.environ.get("path"))

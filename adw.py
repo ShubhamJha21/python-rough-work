@@ -1,0 +1,6 @@
+s = open("shubham.txt")
+print(s.tell())
+print(s.readline())
+print(s.tell())
+s.seek(100)
+print(s.readline())
